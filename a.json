@@ -1,0 +1,28 @@
+{
+  'status': True,
+  'data': {
+    'username': '20205003094',
+    'roles': [
+      'user'
+    ],
+    'attributes': {
+      'organizationId': '1409',
+      'identityTypeCode': 'S02',
+      'accountId': 'd5ea5eb0cdc911ec927611d1ef3efd86',
+      'organizationName': '数学与统计学院',
+      'organizationCode': '1409',
+      'imageUrl': 'portrait__edc664f0-fc37-4d0a-9adb-d0bef10125d3__blob',
+      'identityTypeName': '学生',
+      'identityTypeId': 'd5161ca0a37511ec82971e9c319d6679',
+      'userName': '朱铖彬',
+      'userId': 'd5d85d50cdc911ec927611d1ef3efd86',
+      'userUid': '20205003094'
+    },
+    'login': {
+      'secret': 'cec2ada202ea4c9185a23bf20df12fe5',
+      'token': '59b8c06103b149d58884f3c27df0d5f2',
+      'roleId': '1',
+      'userToken': 'eyJhbGciOiJSUzUxMiJ9.eyJBVFRSX3VzZXJObyI6IjIwMjA1MDAzMDk0Iiwic3ViIjoiMjAyMDUwMDMwOTQiLCJpc3MiOiJjYXMueHh1LmVkdS5jbiIsImRldmljZUlkIjoiWXoxWDBKZWwyd01EQU45REJTb0hNc0dzIiwiQVRUUl9pZGVudGl0eVR5cGVJZCI6ImQ1MTYxY2EwYTM3NTExZWM4Mjk3MWU5YzMxOWQ2Njc5IiwiQVRUUl9hY2NvdW50SWQiOiJkNWVhNWViMGNkYzkxMWVjOTI3NjExZDFlZjNlZmQ4NiIsIkFUVFJfdXNlcklkIjoiZDVkODVkNTBjZGM5MTFlYzkyNzYxMWQxZWYzZWZkODYiLCJBVFRSX2lkZW50aXR5VHlwZUNvZGUiOiJTMDIiLCJBVFRSX2lkZW50aXR5VHlwZU5hbWUiOiLlrabnlJ8iLCJBVFRSX29yZ2FuaXphdGlvbk5hbWUiOiLmlbDlrabkuI7nu5_orqHlrabpmaIiLCJBVFRSX3VzZXJOYW1lIjoi5pyx6ZOW5b2sIiwiZXhwIjoxNjk3NDM3MzA4LCJBVFRSX29yZ2FuaXphdGlvbklkIjoiMTQwOSIsImlhdCI6MTY5NDg0NTMwOCwianRpIjoiSWQtVG9rZW4tYkUyb3F3REdmUmJrdjlxSiIsInJlcSI6ImNvbS5zdXB3aXNkb20ueHh4eSIsIkFUVFJfb3JnYW5pemF0aW9uQ29kZSI6IjE0MDkifQ.a9EgXLSDQqv0r1hNLF9DQS4Ox9LA5Lu0KdqUT7NzkY9IySTPjZ37pRnPNPWUFg7EVvlQH6N9T7jH3O_pqoyWkgOhWQZw-zNCcAQS4wL3C52PGUWNX6uwvWkAwq10YBJxYZC5NQCr6ZPmkgB76OXp7rrJ2q4t9-yNU6eHJ7XFtynHaRu6-Wtm_XgYmHpJJ1k5Mf4erhZtVnscBzzcu6V4U-KnXSW9bBnmhxsHiI0MHlMesT3APeaXNrJL6Bc2luoNdDuFE9HSPv7S1d8cQWhUlbcmpPkeqdEQa4aGxE1ZEO_sxsZMC1c5YDMbCzqBrOHLsxdummCcUgzaALJQacKd0A'
+    }
+  }
+}
